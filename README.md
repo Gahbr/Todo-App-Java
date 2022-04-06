@@ -1,10 +1,9 @@
 # To-do App 
 
-## Definição do Projeto desenvolvido no curso de lógica de programação III da Capgemini Start
 
-### Descrição: Aplicação para o gerenciamento de projetos e as tarefas envolvidas nesses projetos.
+## Descrição
+ Esse projeto foi desenvolvido no curso de lógica de programação III da Capgemini Start. É uma Aplicação para o gerenciamento de projetos e as tarefas envolvidas nesses projetos.
 
-### Objetivo: Resolver a questão de organização de tarefas de um ou vários projetos
 
 ### Entidades:
 
@@ -40,7 +39,7 @@
 * Não haverá o conceito de usuário
 * Toda tarefá deve pertencer a um projeto   
 
-### Tecnologias utilizadas
+## Tecnologias utilizadas
 
 * Java
     * Java Swing
